@@ -1,0 +1,15 @@
+#1. For accessing the elements to different lists
+list1=[23,54,64,34,53,86,97,103]
+list2=[13,63,69,78,90,45,16,89]
+print(list1[4])
+print(list2[7])
+#2. For accessing the elements from a tuple
+a=(3,52,5241,63,742,670)
+b=(42,74,8574,242,62,6321,96,976)
+print(a[0])
+print((b[0:5])
+#3. For deleting differnt elements from dictionary
+data={1:'a',2:'b',3:'c',4:'d'}
+code={5:"e",6:"f",7:"g",8:"h"}
+del data[2]
+del code(3)
